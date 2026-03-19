@@ -1,0 +1,8 @@
+{
+  "fit": [
+    { "id": "fitted", "label": "Fitted" },
+    { "id": "regular", "label": "Regular" },
+    { "id": "relaxed", "label": "Relaxed" },
+    { "id": "oversized", "label": "Oversized" }
+  ]
+}

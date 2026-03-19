@@ -1,0 +1,19 @@
+{
+  "schema": "wear_next_category",
+  "version": "1.0",
+  "categories": [
+    { "id": "tshirts_singlets", "label": "T-shirts & Singlets" },
+    { "id": "shirts", "label": "Shirts" },
+    { "id": "jeans", "label": "Jeans" },
+    { "id": "pants", "label": "Pants" },
+    { "id": "skirts", "label": "Skirts" },
+    { "id": "dresses", "label": "Dresses" },
+    { "id": "belts", "label": "Belts" },
+    { "id": "knitwear", "label": "Knitwear" },
+    { "id": "sweatshirts_hoodies", "label": "Sweatshirts & Hoodies" },
+    { "id": "shorts", "label": "Shorts" },
+    { "id": "tops", "label": "Tops" },
+    { "id": "jackets_coats", "label": "Jackets & Coats" },
+    { "id": "headwear", "label": "Headwear" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "patterns": [
+    { "id": "solid", "label": "Solid" },
+    { "id": "stripes", "label": "Stripes" },
+    { "id": "pinstripe", "label": "Pinstripe" },
+    { "id": "check", "label": "Check" },
+    { "id": "gingham", "label": "Gingham" },
+    { "id": "tartan", "label": "Tartan" },
+    { "id": "houndstooth", "label": "Houndstooth" },
+    { "id": "leopard", "label": "Leopard" },
+    { "id": "zebra", "label": "Zebra" },
+    { "id": "animal_print", "label": "Animal Print" },
+    { "id": "floral", "label": "Floral" },
+    { "id": "botanical", "label": "Botanical" },
+    { "id": "polka_dot", "label": "Polka Dot" },
+    { "id": "geometric", "label": "Geometric" },
+    { "id": "abstract", "label": "Abstract" },
+    { "id": "paisley", "label": "Paisley" },
+    { "id": "ribbed", "label": "Ribbed" },
+    { "id": "tie_dye", "label": "Tie-Dye" },
+    { "id": "ombre", "label": "Ombre" },
+    { "id": "colourblock", "label": "Colourblock" },
+    { "id": "graphic_print", "label": "Graphic Print" }
+  ]
+}
